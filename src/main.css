@@ -1,0 +1,23 @@
+.subbtn {
+        width:8%;
+        margin-bottom: 8%;
+}
+.todos {
+    padding: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    width:max-content;
+    height:max-content;
+}
+.border-item {
+    border: 0.5px solid;
+    margin: 0.7rem;
+}
+.vstack {
+    height: fit-content;
+}
+.values {
+    font-size: x-large;
+}
+
+
